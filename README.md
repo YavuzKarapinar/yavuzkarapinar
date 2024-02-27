@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning **Java Basics**
+- 🌱 I’m currently learning **Java SpringBoot**
 
 - 💬 Ask me about **Java**
 
